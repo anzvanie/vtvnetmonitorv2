@@ -1,0 +1,97 @@
+body {
+  padding-bottom: 20px;
+}
+
+#menu nav {
+  border-radius: 0;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.main-content .tableContent {
+  border-radius: 0 !important;
+    font-size: 12px;
+    padding: 5px;
+    background: #fafafa;
+    border: 1px solid #ccc;
+}
+
+tfoot {
+  display: table-header-group;
+}
+
+tfoot input {
+  width: 100%;
+  padding: 3px;
+  box-sizing: border-box;
+}
+
+/*Common style*/
+.mgr-t-10 { margin-top: 10px; }
+.mgr-b-10 { margin-bottom: 10px; }
+.mgr-l-10 { margin-left: 10px; }
+.mgr-r-10 { margin-right: 10px; }
+.hide {display: none;}
+
+.search-by-column {
+  width:100% !important;
+}
+
+#section-controls {
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+}
+
+#titleSearchForm {
+    padding: 5px 15px;
+    background: #757575;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+}
+
+.toggle-icon {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+#toggleSearchForm {
+
+}
+
+.left-entry select {
+    /*max-width:250px;*/
+}
+
+.left-entry input[type="text"] {
+
+}
+
+.section-footer {
+    padding: 10px 15px 10px;
+    border-top: 1px solid #ccc;
+}
+
+/*Style for UpstreamChannel Table*/
+.details-row {
+    min-width: 16px;
+}
+
+td.details-row {
+    background: url('../images/details_open.png') no-repeat center center;
+    cursor: pointer;
+}
+tr.shown td.details-row {
+    background: url('../images/details_close.png') no-repeat center center;
+}
+
+/*Style for Cable Modem Table*/
+#cableModemTable {
+    font-size: 12px;
+}
+
+td.connect-signal {
+    min-width: 30px;
+}

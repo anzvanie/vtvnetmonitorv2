@@ -1,0 +1,150 @@
+Mac Address,Subscriber Address,Merchants,Status,Up-Cmts,DnSNR,UpSNR,Fec,UnFec,DnPower,RxPower,TxPower,Time
+cc:03:fa:47:73:80,"Minh Khai, Minh Khai, Hai Bà Tr?ng, Hà N?i (57 - Ngách 70 - Ngõ 349 - Minh Khai) - IS4",CN3,Online,uBR-72-TN-01-Node_559/86KIMNGUU,35.5,36.1,0,0,4.5,0.5,37.9,11/12/2016 18:28
+80:29:94:bb:f1:83,"S? 14, Ngách 36/56, Ngõ 203, Kim Ng?u, Thanh L??ng, Hai Bà Tr?ng, Hà N?i, Giganet-Home3",CN3,Online,uBR-72-TN02-NODE_201KIMNGUU,35.5,36.1,0.01,0,-2.3,-0.5,44,11/12/2016 18:28
+fc:52:8d:b0:2d:8b,"Th?y Khuê, Tây H?, Hà N?i (S? 8 - Ngõ 545) - IS4",CN4,Online,uBR10k-TC-NODE_5A/514THUYKHUE,37.2,31.9,0,0,0,6.5,49,11/12/2016 18:28
+80:29:94:bb:cb:5f,,CN1,Online,uBR10K-NCT01-NODE_387DOICAN,36.1,31,0,0,-4.5,-0.5,57.1,11/12/2016 18:29
+80:29:94:bb:bf:59,,CN3,Online,uBR-72-TN-01-NODE_CHOMO,34,33.6,0,0,1.5,-1,41.9,11/12/2016 18:28
+80:29:94:bb:c7:c1,"S? 20, Ngách 12, Ngõ 12, Ngh?a D?ng, Phúc Xá, Ba ?ình, Hà N?i (20 - Ngõ 12/12), Giganet-Home4",CN4,Online,uBR10K-NCT01-NODE_12NGHIADUNG,37.7,34,2.46,0,-3.1,-0.5,50,11/12/2016 18:28
+b0:c2:87:65:2f:6f,"S? 58, Ngõ 17, Phùng Chí Kiên, Ngh?a ?ô, C?u Gi?y, Hà N?i (Nhà A2) - IS4",CN1,Online,uBR10k-TC-NODE_NGO1-800A_17PHUNGCHIKIEN,36.8,28.9,2.92,0,-1.3,-1,54.6,11/12/2016 18:28
+fc:52:8d:b7:40:eb,"S? 14, Ngõ 117/4, Tr?n Cung, T? Liêm, Hà N?i - IS2",CN4,Other,uBR10k-TC-NODE_121TRANCUNG,37.1,32.6,0,0,5.8,-0.5,47,11/12/2016 18:28
+cc:03:fa:5c:c7:f8,"L?c Long Quân, C?u Gi?y, Hà N?i (S? 77C - Ngõ 81/24) - IS3",CN4,Online,uBR-7246-TRANCUNG-NODE_30/81LACLONGQUAN,36.7,36.1,0,0,0.2,-0.5,50,11/12/2016 18:28
+80:29:94:bb:cb:f9,"S? 26, Ngõ 73/26/32, Nguy?n Trãi, Thanh Xuân B?c, Thanh Xuân, Hà N?i, Giganet-Home4",CN2,Online,uBR-10K-DT-NODE_47KHUONGTRUNG,34.8,25.7,0,0,2.9,1,50,11/12/2016 18:28
+cc:03:fa:28:96:56,"??i C?n, C?ng V?, Ba ?ình, Hà N?i (S? 27 - H?m 210/41/11 - ??i C?n) - IS1",CN1,Online,uBR10K-NCT01-NODE_214DOICAN,36.6,35.5,0,0,-3.2,-1.5,53,11/12/2016 18:28
+58:23:8c:89:ca:c5,"???ng Láng, Láng H?, ??ng ?a, Hà N?i (133 - Ngõ 562) - IS3",CN1,Online,uBR-10-NCT03-NODE_CEC27VUNGOCPHAN,37.6,34.1,0,0,-4.3,11.5,55,11/12/2016 18:28
+80:29:94:bb:ca:23,,CN3,Online,uBR10K-VOV-01-NODE_HK-40(NGA4PHANBOICHAU-TRANHUNGDAO(TUCMAC)),36.9,19.5,0,0,-9.3,-0.5,57.1,11/12/2016 18:28
+cc:03:fa:28:9b:72,"D?ch V?ng, D?ch V?ng, C?u Gi?y, Hà N?i (P803 - N06 - B2) - IS1",CN1,Online,uBR10k-TC-NODE_N06DICHVONG,37.7,32.8,0,0,5.2,0,44.7,11/12/2016 18:28
+80:29:94:bb:cb:6d,"S? 5, V?n Phúc, V?n Phúc, Hà ?ông, Hà N?i (Dãy A3 - TT Len V?n Phúc), Giganet-Home3",CN6,Online,uBR10K-HD-NODE_CHOVANPHUC-DOI7VANPHUC,36.1,30.7,0.2,0,-0.9,0.5,48,11/12/2016 18:28
+fc:52:8d:b7:56:4d,"S? 8A, Ngõ 326, Nghi Tàm, T? Liên, Tây H?, Hà N?i (T?ng 1) - IS4",CN4,Online,uBR10K-NCT01-NODE_310NGHITAM,36.8,29.6,0.07,0.01,7.1,13,40.9,11/12/2016 18:28
+80:29:94:bb:ee:cb,"S? 3, Ngõ 435/78, Xuân ??nh, Xuân ??nh, B?c T? Liêm, Hà N?i, Giganet-Home3",CN4,Online,uBR10k-TC-NODE_495XUANDINH,36.1,31.8,3.3,0,7.6,-0.5,45,11/12/2016 18:28
+08:95:2a:1e:0f:6a,"S? ?/D s? 71, V?nh Phúc, V?nh Phúc, Ba ?ình, Hà N?i (Kiot s? 6) - IS4",CN4,Other,uBR10k-TC-NODE_VINHPHUC,35.4,33.2,0.02,0,3.2,10,46.8,11/12/2016 18:28
+fc:52:8d:b7:79:25,"S? 192B, Ngách 82, Ngõ 290/82, Kim Mã, Kim Mã, Ba ?ình, Hà N?i - IS4",CN1,Online,uBR10K-NCT01-NODE_82KIMMA,37,31,0,0,2.6,0,48,11/12/2016 18:29
+70:5a:9e:46:19:e6,"V?nh Phúc, V?nh Phúc, Ba ?ình, Hà N?i (s? nhà 48 ngõ 6) Giganet-Home4",CN4,Online,uBR10k-TC-NODE_B2VINHPHUC,34.6,34.8,0.05,0,-4.1,9.5,51,11/12/2016 18:28
+08:95:2a:1e:37:10,"S? 106, Ngõ 639, Hoàng Hoa Thám, V?nh Phúc, Ba ?ình, Hà N?i - IS4",CN4,Online,uBR10k-TC-NODE_639HOANGHOATHAM,36.1,33,0,0,0.3,5,45,11/12/2016 18:28
+fc:52:8d:b7:3c:4b,"Phòng 1402, Nguy?n Phong S?c, D?ch V?ng H?u, C?u Gi?y, Hà N?i (CC N105) - IS2",CN1,Online,uBR10k-TC-NODE_NGO1TRANQUOCHOAN,36.5,33.7,0,0,-1.2,0.5,54,11/12/2016 18:29
+80:29:94:bb:cf:d7,"Hoàng ??o Thành, Kim Giang, Thanh Xuân, Hà N?i (22 - ngách 102/53), Giganet-Home3",CN2,Online,uBR-10K-DT-NODE_28/80HOANGDAOTHANH,34.2,29.4,2.87,0,4.6,-1,46,11/12/2016 18:28
+80:29:94:bb:c9:03,"15 t?ng- Công An Thanh Trì, Tòa nhà 15 t?ng - Công an Thanh Trì, ??i Kim, Hoàng Mai, Hà N?i (P309), Giganet-Home3",CN9,Online,uBR-10K-DT-NODE_CATHANHTRI,36.9,32.7,0,0,0.1,4,49,11/12/2016 18:28
+fc:52:8d:b7:3c:31,"S? 24, Ngách 32/84/27, Ngõ 32/84/27, M? Trì H?, M? Trì, Nam T? Liêm, Hà N?i (???ng ?? ??c D?c-M? Trì H?-M? trì) - IS4",CN1,Online,uBR10k-TC-NODE_192YENHOA,35.4,28.8,0.38,0,-1.5,9,46,11/12/2016 18:29
+58:23:8c:d8:7f:fa,"Ngh?a Tân, Ngh?a Tân, C?u Gi?y, Hà N?i (P101 - C2 - T? 47) - IS2",CN1,Online,uBR10k-TC-NODE_NGA4NGHIATAN,35.5,24.9,0,0,6.1,4.5,39.7,11/12/2016 18:29
+58:23:8c:89:d1:9d,"Ngách 37, Ngõ 167, Tây S?n, Quang Trung, ??ng ?a, Hà N?i (P218 - 5B - TT ?HC?) - IS1",CN2,Online,uBR10K-NCT01-NODE_167TAYSON,36.7,29.7,0,0,4.7,-1,47,11/12/2016 18:28
+fc:52:8d:b7:21:bf,"Hoàng Qu?c Vi?t, Ngh?a Tân, C?u Gi?y, Hà N?i (S? 42 - Ngách 5/4) - IS3",CN1,Online,uBR10k-TC-NODE_NGO1-800A_17PHUNGCHIKIEN,38.3,28.2,2.76,0,-3.7,-0.5,57.7,11/12/2016 18:28
+fc:52:8d:b7:5a:75,"Ngách 43/10, Ba La, Phú La, Hà ?ông, Hà N?i (C?nh nhà s? 9 - Ngõ Tr?m ?i?n) - IS3",CN6,Online,uBR10K-HD-NODE-TRAMDIENBALA,36.9,33.2,0.69,0,-4.3,-0.5,48,11/12/2016 18:28
+80:29:94:bb:cd:af,"S? 53D, Ngô Quy?n, Quang Trung, Hà ?ông, Hà N?i, Giganet-Home3",CN6,Online,uBR10K-HD-NODE_22NGOQUYEN,36.1,32.9,0.03,0,-2.2,-0.5,54,11/12/2016 18:28
+cc:03:fa:28:9a:1c,"V?nh Phúc, V?nh Phúc, Ba ?ình, Hà N?i (S? 58) - IS2",CN4,Online,uBR10k-TC-NODE_46VINHPHUC,35.4,36.1,0,0,0.6,10.5,50,11/12/2016 18:29
+70:5a:9e:26:fe:0c,"Kim Liên, Kim Liên, ??ng ?a, Hà N?i (P404 - C7 - Kim Liên) Giganet-Home3",CN3,Online,uBR-10-NCT03-NODE_CECB126KIMLIEN,36.7,26.6,1.31,0,0.2,9,41.9,11/12/2016 18:29
+fc:52:8d:b7:54:fb,"Quán S?, C?a Nam, Hoàn Ki?m, Hà N?i (S? 46 (?i th?ng vào ngõ, nhà nhìn th?ng ra ngõ)), Giganet-Home4",CN3,Online,uBR10K-VOV-01-NODE_HK-044(QUANSU-TRANGTHI),36.8,35.7,0,0,2.9,8,61.1,11/12/2016 18:29
+80:29:94:bb:e6:0f,,CN4,Online,uBR10K-VOV-01-NODE_DD-144(NGA3NGUYENKHUYEN-YENTHE),35.4,27.9,0.02,0,-2.8,-0.5,48,11/12/2016 18:29
+e4:48:c7:b7:5f:d8,"Phòng 1004, CT7B, V?n Quán, V?n Quán, Hà ?ông, Hà N?i (P1004 - CT7B) - IS3",CN6,Online,uBR10K-HD-NODE_CC__RAINBOW,38.6,34.4,0,0,4,0.5,53.2,11/12/2016 18:28
+80:29:94:bb:ac:7d,"Hoàng V?n Thái, Kh??ng Trung, Thanh Xuân, Hà N?i (21 - ngõ 69A) - IS3",CN2,Online,uBR-10K-DT-NODE_NGA3HOANGVANTHAI-NGUYENNGOCNAI,36,35.4,0,0,7.6,2.5,47,11/12/2016 18:29
+fc:52:8d:b7:02:bf,"CT8B, V?n Quán, V?n Quán, Hà ?ông, Hà N?i (P302 - CT8B) - IS4",CN6,Online,uBR10K-HD-NODE_BT7VANQUAN,35.5,21.8,0.1,0,0.3,0.5,41.9,11/12/2016 18:28
+b0:c2:87:f2:76:ea,"Phòng 205, S? A7, H? ??c Di, Nam ??ng, ??ng ?a, Hà N?i (TT Nam ??ng) - IS3",CN2,Online,uBR10K-NCT01-NODE_119/1HODACDI,36.6,34.3,0,0,3.4,6,46,11/12/2016 18:28
+80:29:94:bb:d5:3f,,CN6,Online,uBR10K-HD-NODE_CHOVANPHUC-DOI7VANPHUC,35.8,27.6,0.07,0,1.2,-0.5,44,11/12/2016 18:28
+b0:c2:87:f2:7c:6c,"Hoàng Qu?c Vi?t, Ngh?a Tân, C?u Gi?y, Hà N?i (S? 22 - H?m 5/4/3 - Ngõ 5) - IS4",CN1,Other,uBR10k-TC-NODE_NGO5HOANGQUOCVIET,35.6,34.8,0,0,-8.2,1,58.1,11/12/2016 18:29
+08:95:2a:1e:2b:02,"Hoàng Qu?c Vi?t, Ngh?a Tân, C?u Gi?y, Hà N?i (P1006 - A14 - Ngõ 106) - IS2",CN1,Online,uBR10k-TC-NODE_106HOANGQUOCVIET,36.7,26,0,0,-3.2,-4.5,61.2,11/12/2016 18:28
+e4:48:c7:ba:1e:42,,Ngô Quy?n 2,Online,uBR-72-HPG3-NODE_NGA3CHUVANAN_LELOI,34.5,26.3,0,0,-4.8,0.5,39,11/12/2016 18:28
+00:1a:ad:76:aa:32,"Tô V?nh Di?n, Kh??ng Trung, Thanh Xuân, Hà N?i (S? 58) - IS1",CN2,Other,uBR-10K-DT-NODE_86TOVINHDIEN,0,34.6,0,0,0,10,0,11/12/2016 18:29
+cc:03:fa:a5:00:ce,"S? C?nh s? 15, Ngõ 32, ??i C?n, ??i C?n, Ba ?ình, Hà N?i - IS1",CN4,Online,uBR10K-NCT01-NODE_99LEHONGPHONG,35.5,33.2,0.01,0,-3.1,16.5,53,11/12/2016 18:29
+b0:c2:87:65:2f:3d,"S? 6, C?u Gi?y, Yên Hoà, C?u Gi?y, Hà N?i (S? 6 - Ngách 79/11) - IS3",CN1,Online,uBR10k-TC-NODE_445NGUYENKHANG,37.3,27,0.04,0,1.5,10.5,51,11/12/2016 18:28
+80:29:94:bb:d2:21,,CN2,Online,uBR-10K-NCT02-NODE_CEC122LANG,36.6,24.3,0,0,2.6,1,51,11/12/2016 18:28
+08:95:2a:1e:28:c8,"Phòng 409, V?nh H?, Ngã T? S?, ??ng ?a, Hà N?i (P409 - C5) - IS2",CN2,Online,uBR-10-NCT03-NODE_A8VINHHO,37.6,28.2,0.02,0,11,11,40.9,11/12/2016 18:28
+80:29:94:bb:d2:df,"S? 6, Ngõ 109, Tr?n Cung, C? Nhu? 1, B?c T? Liêm, Hà N?i (S? 6 - Ngõ 109), Giganet-Home4",CN4,Online,uBR10k-TC-NODE_198TRANCUNG,36.7,35,0,0,5.7,0,41.9,11/12/2016 18:28
+fc:52:8d:b7:2a:57,"T?ng 4, S? ?/D s? 8, Ngõ 77, Xuân La, Xuân La, Tây H?, Hà N?i (CC Mini) - IS3",CN4,Online,uBR10k-TC-NODE_77XUANLA,35.4,34,1.97,0,0.8,2,45,11/12/2016 18:29
+cc:03:fa:28:a2:98,"S? 78B, Ngõ 81/24/47, L?c Long Quân, C?u Gi?y, Hà N?i - IS2",CN4,Online,uBR-7246-TRANCUNG-NODE_30/81LACLONGQUAN,36.9,36.1,0.07,0,1.8,0,41.9,11/12/2016 18:28
+c4:27:95:f8:b6:63,"Phùng Chí Kiên, Ngh?a ?ô, C?u Gi?y, Hà N?i (27A - Ngõ 61/14) - IS3",CN1,Other,uBR10k-TC-NODE_1/152QUANHOA,36.1,36.1,0,0,-4.9,1,53,11/12/2016 18:29
+08:95:2a:1e:07:82,"S? 10, Ngõ 8/3, Võng Th?, Thu? Khuê, Tây H?, Hà N?i - IS2",CN4,Other,uBR10k-TC-NODE_43VONGTHI&8VONGTHI,36.1,28.6,1.97,0,2.9,-0.5,44,11/12/2016 18:29
+fc:52:8d:b7:31:17,"S? 209, Nguy?n Khang, C?u Gi?y, Hà N?i - IS3",CN1,Other,uBR10k-TC-NODE_255NGUYENKHANG,35.4,32.4,0,0,-6.7,14,57.1,11/12/2016 18:28
+fc:52:8d:b0:31:4f,"S? 23, Ngõ 21, Phùng Khoang, Trung V?n, Nam T? Liêm, Hà N?i (PK2) - IS3",CN2,Other,uBR10K-HD-NODE_N.T.PHUNGKHOANG,36.1,35.8,0.01,0.02,9,11.5,45,11/12/2016 18:28
+cc:03:fa:5c:bb:76,"S? 150, H? ?ình, Thanh Xuân Trung, Thanh Xuân, Hà N?i - IS3",CN2,Online,uBR-10K-DT-NODE_71/342KIMGIANG,34.8,36.1,0,0,-3.9,-1.5,50,11/12/2016 18:28
+b0:c2:87:65:2b:cd,"Ph?m V?n ??ng, T? Liêm, Hà N?i (S? 44 - Ngõ 643) - IS4",CN4,Online,uBR10k-TC-NODE_NGOHOANG(639PHAMVANDONG),37.6,33.9,0,0,-0.9,-0.5,50,11/12/2016 18:28
+fc:52:8d:b7:19:4b,"S? 40, Ngõ 106, Hoàng Qu?c Vi?t, Ngh?a ?ô, C?u Gi?y, Hà N?i - IS2",CN1,Online,uBR10k-TC-NODE_106HOANGQUOCVIET,37.5,31.6,0,0,-1.4,1,57.8,11/12/2016 18:28
+80:29:94:bb:d1:bd,"Rainbow, S? P1106 - Tòa Nhà Rainebow, V?n Quán, V?n Quán, Hà ?ông, Hà N?i (P1106 - Tòa Nhà Rainebow), Giganet-Home4",CN6,Online,uBR10K-HD-NODE_CC__RAINBOW,36.8,34.5,0,0,5,-1,48,11/12/2016 18:28
+80:29:94:bb:c0:a7,"S? 5, Ngõ 347/35/1, C? Nhu?, C? Nhu?, T? Liêm, Hà N?i - IS4",CN4,Other,uBR10k-TC-NODE_305CONHUE,35.4,36.1,0,0,1,4.5,44,11/12/2016 18:28
+70:5a:9e:26:fb:5c,"S? 4, Ngõ 6, Nguy?n V?n Tr?i, M? Lao, Hà ?ông, Hà N?i, Giganet-Home3",CN2,Online,uBR10K-HD-NODE_AOSEN&9BNGUYENVANTROI,35.8,30.4,0,0,2.6,6,53,11/12/2016 18:28
+80:29:94:bb:bf:0b,"Phòng 802, S? A1D2, ??ng Xá, ??ng Xá, Gia Lâm, Hà N?i (P802 A1D2), Giganet-Home3",CN8,Online,Ubr7246-THACHBAN-02-NODE_DANGXA1,35.4,32.5,0,0,-0.9,0,53.2,11/12/2016 18:28
+80:29:94:bb:d3:63,"S? 3, Ngõ 324/24, Th?y Khuê, B??i, Tây H?, Hà N?i, Giganet-Home4",CN4,Online,uBR10k-TC-NODE_324THUYKHUE,37.6,31.5,0.02,0,4.5,0,36.9,11/12/2016 18:29
+08:95:2a:1e:13:84,"Trung Kính, Trung Kính, C?u Gi?y, Hà N?i (P506 - T?ng 5 - Nhà E - TT T36 - B? Công An - T? 45) - IS4",CN1,Online,uBR10k-TC-NODE_TO51TRUNGKINH,36.1,33.1,0,0,-3.8,-1.5,54,11/12/2016 18:29
+80:29:94:bb:eb:09,"Phùng Khoang, Trung V?n, T? Liêm, Hà N?i (9 - N2 - Tt ?òan 5), Giganet-Home4",CN2,Online,uBR10K-HD-NODE_29APHUNGKHOANG,34.1,29.8,0.03,0,12.9,-1,44,11/12/2016 18:28
+cc:03:fa:2f:5c:bf,"S? 1, Ngõ 207/65, Xuân ??nh, Xuân ??nh, T? Liêm, Hà N?i - IS1",CN4,Online,uBR10k-TC-NODE_207XUANDINH,36.8,36,0,0,0.6,0.5,48,11/12/2016 18:29
+fc:52:8d:b7:36:bd,"Phòng 809, CT3-1 Khu ?ô th? M? Trì H?, M? Trì, Nam T? Liêm, Hà N?i-Giganet-Home2",CN9,Online,uBR10k-TC-NODE_CEC_CT3.MYDINH,36.1,34.4,0,0,2.3,0,47,11/12/2016 18:29
+08:95:2a:c1:fb:b8,"Phùng Khoang, Trung V?n, Nam T? Liêm, Hà N?i (3 - Ngách 67/26) - IS4",CN2,Online,uBR10K-HD-NODE_29APHUNGKHOANG,36.7,30.6,0,0,2,-0.5,53,11/12/2016 18:28
+70:5a:9e:26:fb:e2,"Phòng 115, Tô Hi?u, Ngh?a Tân, C?u Gi?y, Hà N?i (P115 - B11 - TT Ngh?a Tân), Giganet-Home3",CN1,Online,uBR10k-TC-NODE_MAMNON-NGHIATAN,36.9,33.4,0,0,0.6,-1,48,11/12/2016 18:29
+80:29:94:bb:d0:47,"S? 44, Ngõ 460, Kh??ng ?ình, H? ?ình, Thanh Xuân, Hà N?i, Giganet-Home3",CN2,Online,uBR-10K-DT-NODE_24/420KHUONGDINH,34.9,27.3,0.05,0,2.3,1.5,46,11/12/2016 18:28
+cc:03:fa:28:83:4c,"Xuân ??nh, Xuân ??nh, T? Liêm, Hà N?i (S? 6 - Ngách 256/15) - IS3",CN4,Online,uBR10k-TC-NODE_249XUANDINH,36.1,28.8,0.15,0,-1.4,9.5,42.7,11/12/2016 18:29
+fc:52:8d:b7:55:e9,"Hoàng Qu?c Vi?t, Ngh?a Tân, C?u Gi?y, Hà N?i (7 - Ngách 5/69) - IS3",CN1,Online,uBR10k-TC-NODE_NGO5HOANGQUOCVIET,36.4,34.8,0,0,-3,1,41.9,11/12/2016 18:29
+cc:03:fa:47:73:f4,"H? H?i, Tr?n H?ng ??o, Hoàn Ki?m, Hà N?i (S? 20 - Xóm) - IS2",CN3,Online,uBR10K-VOV-01-NODE_HK-37(HAHOI),36.5,27.4,0,0,4.8,0,61.1,11/12/2016 18:28
+fc:52:8d:b7:63:4f,"La Thành, Gi?ng Võ, Ba ?ình, Hà N?i (S? 613 - La Thành) - IS3",CN1,Online,uBR-10-NCT03-NODE_766LAThanh,35.4,28.7,0,0,-10.2,-1,61.2,11/12/2016 18:29
+00:00:22:22:22:22,,CN4,Other,uBR10K-NCT01-NODE_285DOICAN,12.9,27.7,6.15,0,12.9,0,12.9,11/12/2016 18:28
+70:5a:9e:46:0e:70,"An D??ng V??ng, Tây H?, Hà N?i (S? 10 - Ngõ 63/5) Giganet-Home3",CN4,Online,uBR10k-TC-NODE_41ANDUONGVUONG,35.5,32.8,0.01,0,-8.2,1,51,11/12/2016 18:28
+cc:03:fa:a4:dc:e0,"Tr?n Qu?c To?n, Tr?n H?ng ??o, Hoàn Ki?m, Hà N?i (S? 62C) - IS4",CN3,Online,uBR10K-VOV-01-NODE_HK-37(HAHOI),36.1,27.3,0,0,-1.1,0.5,50,11/12/2016 18:28
+fc:52:8d:b7:6d:59,"S? 119, Quan Hoa, Quan Hoa, C?u Gi?y, Hà N?i (SN 119; m?t ???ng quan hoa) - IS4",CN1,Online,uBR10k-TC-NODE_72/38DUONGQUANGHAM,35.8,34.6,0.04,0,20.5,10,30.8,11/12/2016 18:29
+fc:52:8d:b0:41:23,"Phòng 311, Ngõ 234, Hoàng Qu?c Vi?t, C? Nhu? 1, B?c T? Liêm, Hà N?i (TT h?c vi?n k? thu?t quân s? hoàng qu?c vi?t) - IS3",CN4,Online,uBR10k-TC-NODE_NGOHOANG(639PHAMVANDONG),38.4,34.4,0.01,0,7.8,0,46,11/12/2016 18:28
+08:95:2a:1e:31:0e,"S? 1, Ngõ 422, Tr?n Cung, T? Liêm, Hà N?i - IS2",CN4,Online,uBR10k-TC-NODE_488TRANCUNG,36.7,25,0,0,7.1,1,51,11/12/2016 18:28
+08:95:2a:c2:05:d8,"S? 14, Ngõ 88, C?u Gi?y, C?u Gi?y, Hà N?i - IS4",CN1,Online,uBR10k-TC-NODE_48DUONGQUANGHAM,35.4,27.2,0,0,-8.9,3.5,52.4,11/12/2016 18:28
+cc:03:fa:28:8d:38,"L?c Long Quân, Tây H?, Hà N?i (S? 10 - N3 - Ngõ 191/46) - IS2",CN4,Other,uBR10k-TC-NODE_191/38/30LACLONGQUAN,36.7,35.8,0,0,3.5,11.5,45,11/12/2016 18:29
+80:29:94:bb:c8:b5,"Ngõ 61/17, Phùng Chí Kiên, Ngh?a ?ô, C?u Gi?y, Hà N?i, Giganet-Home4",CN1,Online,uBR10k-TC-NODE_1/152QUANHOA,36.2,34.7,0,0,-5.8,-1.5,47,11/12/2016 18:29
+cc:03:fa:28:8c:62,"Yên Hòa, Yên Hoà, C?u Gi?y, Hà N?i (S? 15 - Ngách 79/56) - IS2",CN1,Online,uBR10k-TC-NODE_445NGUYENKHANG,37,26.8,0,0,5.6,10.5,50,11/12/2016 18:28
+80:29:94:bb:b7:89,"Tr?n Qu?c To?n, Tr?n H?ng ??o, Hoàn Ki?m, Hà N?i (s? 81B) - IS4",CN3,Online,uBR10K-VOV-01-NODE_HK-37(HAHOI),36,27.2,0,0,4.8,1,56,11/12/2016 18:28
+e4:48:c7:b7:87:2a,"S? 243B, Hoàng Qu?c Vi?t, Ngh?a Tân, C?u Gi?y, Hà N?i - IS1",CN1,Other,uBR10k-TC-NODE_NGHIATAN-TRANTUBINH,36.9,32.8,0.03,0,-4.5,0,53.2,11/12/2016 18:28
+08:95:2a:c1:f8:bc,"Ngh?a Tân, Ngh?a Tân, C?u Gi?y, Hà N?i (P413A - A8) - IS3",CN1,Other,uBR10k-TC-NODE_NGHIATAN-TRANTUBINH,36.8,31.2,0.03,0,-5.6,-1,49,11/12/2016 18:28
+cc:03:fa:5c:c7:50,"S? 67, Ngõ 9/2, ??ng Thai Mai, Qu?ng An, Tây H?, Hà N?i - IS1",CN4,Online,uBR10K-NCT01-NODE_31XUANDIEU,36.1,22.2,0,0,-6.8,1,55,11/12/2016 18:29
+08:95:2a:c1:fc:a8,"S? 4, Ngõ 238/94, Âu C?, Qu?ng An, Tây H?, Hà N?i - IS4",CN4,Other,uBR10k-TC-NODE_238AUCO,35.5,34.2,0.03,0,1.3,1,48,11/12/2016 18:29
+08:95:2a:c2:03:f2,"Ngô V?n S?, Tr?n H?ng ??o, Hoàn Ki?m, Hà N?i (3) - IS4",CN3,Online,uBR10K-VOV-01-NODE_HK-36(NGA4TRANQUOCTOAN-TRUONGHANSIEU),36.8,31.2,0,0,-1.2,-0.5,53,11/12/2016 18:28
+b0:c2:87:65:3b:bd,"4, Phú ?ô, M? Trì, T? Liêm, Hà N?i (??i di?n SN 136) - IS3",CN1,Online,uBR10k-TC-NODE_8/11/186.PHUDO,36.8,27.1,0.11,0,-5.5,-4,61.2,11/12/2016 18:29
+fc:52:8d:b6:ff:c9,"Ki?n H?ng, Ki?n H?ng, Hà ?ông, Hà N?i (P617 - 19T6) - IS4",CN6,Online,uBR10K-HD-NODE_CT6KIENHUNG,34.9,36.1,0,0,-12.3,0.5,61.1,11/12/2016 18:28
+58:23:8c:89:d9:89,"S? 50, Tr?n Qu?c To?n, Hoàn Ki?m, Hà N?i - IS2",CN3,Online,uBR10K-VOV-01-NODE_HK-36(NGA4TRANQUOCTOAN-TRUONGHANSIEU),36.1,29.7,0.01,0,11.8,-1,47,11/12/2016 18:28
+fc:52:8d:b7:30:f1,"S? 35, Ngách 41, Ngõ 401, C? Nhu?, C? Nhu?, T? Liêm, Hà N?i - IS3",CN4,Other,uBR10k-TC-NODE_401CONHUE,36.1,36.1,0,0,9.8,-0.5,45,11/12/2016 18:28
+cc:03:fa:47:73:ae,"S? 20, Ngách 34, Ngõ 105, Yên Hòa, Yên Hoà, C?u Gi?y, Hà N?i - IS2",CN1,Online,uBR10k-TC-NODE_105YENHOA,35.9,36.1,0.05,0,-3.6,16.5,54,11/12/2016 18:28
+e4:48:c7:b8:6e:9e,"Hoàng Hoa Thám, Tây H?, Hà N?i (368) - IS2",CN4,Online,uBR10k-TC-NODE_453HOANGHOATHAM,39.4,31.1,0.01,0,1.8,10,51.2,11/12/2016 18:28
+88:f7:c7:f9:46:7d,"Tr?n Qu?c To?n, Tr?n H?ng ??o, Hoàn Ki?m, Hà N?i (83B) - IS3",CN3,Online,uBR10K-VOV-01-NODE_HK-37(HAHOI),36.9,27.1,0,0.03,6,1.5,48,11/12/2016 18:28
+cc:03:fa:47:75:06,"??ng Ti?n ?ông, Trung Li?t, ??ng ?a, Hà N?i (C?nh nhà 282) - IS2",CN2,Online,uBR10K-NCT01-NODE_NGUYENPHUCLAI,36.8,26.7,0,0,-1.4,-1,53,11/12/2016 18:29
+80:29:94:bb:ed:0b,"D?ch V?ng, D?ch V?ng, C?u Gi?y, Hà N?i (S? 33B - T? 32 - Ngách 37/27 - D?ch V?ng), Giganet-Home4",CN1,Online,uBR10k-TC-NODE_37DICHVONG,37.1,36.1,0,0,0.8,-0.5,44,11/12/2016 18:28
+08:95:2a:c2:09:ce,"Tô Hi?u, Hà C?u, Hà ?ông, Hà N?i ((Thu t?i ??a ch? l?p) - P1001- CT3 Huyndai) - IS3",CN6,Online,uBR10K-HD-NODE_HUYNHDAI,36.7,25.6,0,0,-1.4,0,55,11/12/2016 18:29
+cc:03:fa:28:88:c6,"Xuân ??nh, T? Liêm, Hà N?i (S? 16 - Ngách 126/83/7) - IS3",CN4,Online,uBR10k-TC-NODE_126XUANDINH,36.3,33.1,0.12,0,-4,0.5,52.8,11/12/2016 18:29
+88:f7:c7:f9:4e:d9,"?oàn Nh? Hài, Tr?n H?ng ??o, Hoàn Ki?m, Hà N?i (23) - IS2",CN3,Online,uBR10K-VOV-01-NODE_HK-37(HAHOI),34.8,27.3,0.01,0.01,-7.7,-0.5,48,11/12/2016 18:28
+fc:52:8d:b7:27:eb,"V?n Quán, V?n Quán, Hà ?ông, Hà N?i (P404 - CT1B) - IS3",CN6,Online,uBR10K-HD-NODE_CC__RAINBOW,36.8,34.7,0,0,7.4,0,49,11/12/2016 18:28
+cc:03:fa:28:8c:d8,"S? 15B, Ngõ 81/24/3, L?c Long Quân, Xuân La, Tây H?, Hà N?i - IS2",CN4,Online,uBR-7246-TRANCUNG-NODE_30/81LACLONGQUAN,36.7,36.1,0,0,3.7,1,55,11/12/2016 18:28
+b0:c2:87:65:25:95,"V?n Quán, V?n Quán, Hà ?ông, Hà N?i (C36 - TT14) - IS3",CN6,Online,uBR10K-HD-NODE_TT14VANQUAN,36.7,36.1,0,0,3.6,13,55,11/12/2016 18:28
+80:29:94:9c:85:c9,"Phòng 503, Ngõ 512, Hoàng Hoa Thám, V?nh Phúc, Ba ?ình, Hà N?i (t?ng 5 - Khu TT 7 t?ng) - IS4",CN4,Online,uBR10k-TC-NODE_515HOANGHOATHAM,34.9,36.1,0,0,-6.5,4,48,11/12/2016 18:29
+80:29:94:bb:ca:8d,"S? 29, Ngõ 114, ???ng 19/5, V?n Quán, Hà ?ông, Hà N?i (s? 29 ngõ 114), Giganet-Home3",CN2,Online,uBR10K-HD-NODE_NGO_1_VAN_QUAN,37.6,30,0,0,7.5,-1,44,11/12/2016 18:29
+08:95:2a:1e:14:d8,"Ngõ Thái Th?nh 1, Th?nh Quang, ??ng ?a, Hà N?i (S? 14 - Ngách 40) - IS3",CN2,Online,uBR-10-NCT03-NODE_CEC.67THAITHINH-26BV.NOITIET,37.6,22,0.2,0,-1.6,0,48,11/12/2016 18:28
+fc:52:8d:b7:41:8f,"S? 3, Ngõ 26, Xuân Di?u, Qu?ng An, Tây H?, Hà N?i - IS4",CN4,Online,uBR10K-NCT01-NODE_NGA3XUANDIEU-AUCO,35.3,24.5,0,0,3.5,11,48,11/12/2016 18:29
+fc:52:8d:b7:06:49,"Ngõ 2, Hà Trì 4, Hà C?u, Hà ?ông, Hà N?i (Lô 62D) - IS3",CN6,Online,uBR10K-HD-NODE_CONGLANGHATRI,37.6,30.3,0,0,4.7,2.5,46,11/12/2016 18:28
+cc:03:fa:5c:c3:d4,"S? 4, Ngõ 57, An Xá, Phúc Xá, Ba ?ình, Hà N?i - IS2",CN4,Online,uBR10K-NCT01-NODE_22PHUCXA,36.8,32.8,0.02,0,3.1,-0.5,45,11/12/2016 18:28
+08:95:2a:1e:35:94,"V?nh Phúc, V?nh Phúc, Ba ?ình, Hà N?i (P.201 - Nhà K - TT) - IS4",CN4,Online,uBR10k-TC-NODE_B2VINHPHUC,35,35.4,0,0,-0.4,11,54,11/12/2016 18:28
+b0:c2:87:65:32:07,"S? 15, Ngõ 132/24, C?u Gi?y, D?ch V?ng, C?u Gi?y, Hà N?i - IS4",CN1,Online,uBR10k-TC-NODE_48DUONGQUANGHAM,35.5,27.1,0.01,0,8.1,3.5,43.4,11/12/2016 18:28
+e4:48:c7:b7:8a:62,"CT7B, V?n Quán, V?n Quán, Hà ?ông, Hà N?i (P406 - CT7B ) - IS3",CN6,Online,uBR10K-HD-NODE_CC__RAINBOW,38.3,33.1,0,0,5.8,0,49.7,11/12/2016 18:28
+70:5a:9e:26:e1:9c,"V?n Quán, V?n Quán, Hà ?ông, Hà N?i (P1016 - CT7B) Giganet-Home4",CN6,Online,uBR10K-HD-NODE_CC__RAINBOW,37.6,34.8,0,0,0,0,52,11/12/2016 18:28
+08:95:2a:c1:f7:f8,"CT7B, V?n Quán, V?n Quán, Hà ?ông, Hà N?i (P708 - CT7B) - IS2",CN6,Online,uBR10K-HD-NODE_CC__RAINBOW,36.2,35.1,0,0,3.6,0.5,47,11/12/2016 18:28
+cc:03:fa:a4:fe:40,"CT7B, V?n Quán, V?n Quán, Hà ?ông, Hà N?i (P1112 - CT7B) - IS3",CN6,Online,uBR10K-HD-NODE_CC__RAINBOW,37.6,33.7,0.01,0,3.6,-0.5,51,11/12/2016 18:28
+08:95:2a:c1:f7:74,"CT7B, V?n Quán, V?n Quán, Hà ?ông, Hà N?i (P1202 - CT7B) - IS4",CN6,Online,uBR10K-HD-NODE_CC__RAINBOW,36.2,36,0,0,3.5,2,52,11/12/2016 18:28
+08:95:2a:c1:e1:ee,"T?ng C?c 5 Yên Xá, Tân Tri?u, Thanh Trì, Hà N?i (S? 6 - LK8) - IS3",CN6,Online,uBR10K-HD-NODE_NGO8LETRONGTAN&NV7-TONGCUC5,36.9,30.8,0,0,16.9,1,51,11/12/2016 18:28
+cc:03:fa:a4:e9:26,"CT7B, V?n Quán, V?n Quán, Hà ?ông, Hà N?i (P1208 - CT7B) - IS1",CN6,Online,uBR10K-HD-NODE_CC__RAINBOW,36.3,34.9,0,0,2,0,53,11/12/2016 18:28
+cc:03:fa:a4:fe:64,"V?n Quán, V?n Quán, Hà ?ông, Hà N?i (P702 - CT7B) - IS2",CN6,Online,uBR10K-HD-NODE_CC__RAINBOW,37,34.2,0,0,0.5,0,57.1,11/12/2016 18:28
+cc:03:fa:2f:5c:eb,"CT7B, V?n Quán, V?n Quán, Hà ?ông, Hà N?i (P1204 - CT7B) - IS2",CN6,Online,uBR10K-HD-NODE_CC__RAINBOW,37,34.7,0,0,3.9,1.5,58.1,11/12/2016 18:28
+58:23:8c:d8:92:40,"CT7B, V?n Quán, V?n Quán, Hà ?ông, Hà N?i (P502 - CT7B) - IS4",CN6,Online,uBR10K-HD-NODE_CC__RAINBOW,36.8,36.1,0,0,4.7,1.5,51,11/12/2016 18:28
+e4:48:c7:b7:8e:c6,"CT7B, V?n Quán, V?n Quán, Hà ?ông, Hà N?i (P1216 - CT7B) - IS1",CN6,Online,uBR10K-HD-NODE_CC__RAINBOW,37.5,34.5,0,0,4.7,-0.5,49.2,11/12/2016 18:28
+cc:03:fa:a4:d5:f0,"CT7B, V?n Quán, V?n Quán, Hà ?ông, Hà N?i (P518 - CT7B) - IS3",CN6,Online,uBR10K-HD-NODE_CC__RAINBOW,36.1,34.3,0,0,0,0.5,52,11/12/2016 18:28
+58:23:8c:d8:88:be,"V?n Quán, V?n Quán, Hà ?ông, Hà N?i (P206 - CT7B) - IS3",CN6,Online,uBR10K-HD-NODE_CC__RAINBOW,35.9,33.9,0,0,-0.3,-1.5,56,11/12/2016 18:28
+fc:52:8d:b7:66:ad,"V?n Quán, V?n Quán, Hà ?ông, Hà N?i (P420 - CT7B) - IS4",CN6,Online,uBR10K-HD-NODE_CC__RAINBOW,37.3,36.1,0,0,3.6,2,51,11/12/2016 18:28
+80:29:94:bb:bf:41,"S? 17, Trinh L??ng, Phú L??ng, Hà ?ông, Hà N?i (T? 11 - ???ng Bê Tông), Giganet-Home3",CN6,Online,uBR10K-HD-NODE_CHINHLUONG,34.2,33.1,0.03,0,3.4,0,47,11/12/2016 18:28
+80:29:94:bb:b8:77,"V?n Quán, V?n Quán, Hà ?ông, Hà N?i (P1014 - CT7B) - IS4",CN6,Online,uBR10K-HD-NODE_CC__RAINBOW,36.8,34.8,0,0,0.9,0.5,55,11/12/2016 18:28
+b0:c2:87:65:3d:2b,"CT7B, S? P1116 - CT7B, V?n Quán, V?n Quán, Hà ?ông, Hà N?i - IS3",CN6,Online,uBR10K-HD-NODE_CC__RAINBOW,36.4,33.8,0,0,-0.9,-0.5,56,11/12/2016 18:28
+80:29:94:bb:ee:c3,"S? 27, BT4 Khu ?ô th? Pháp Vân, Hoàng Li?t, Hoàng Mai, Hà N?i, Giganet-Home4",CN9,Online,uBR-10K-DT-NODE_CEC.NO18PHAPVAN,35.9,28.4,0,0,-8.6,0.5,47,11/12/2016 18:28
+58:23:8c:d8:84:66,"Nguy?n Khang, Yên Hoà, C?u Gi?y, Hà N?i (S? 10 - ngách 1 - ngõ 255) - IS1",CN1,Online,uBR10k-TC-NODE_255NGUYENKHANG,36.3,33.6,0.02,0,-0.7,14.5,44,11/12/2016 18:28
+08:95:2a:1e:15:7a,"S? 34 - t? 41, Ngách 389/17, Ngõ 389, Tr?n Thái Tông, D?ch V?ng, C?u Gi?y, Hà N?i - IS4",CN1,Online,uBR10k-TC-NODE_DALOC,35.2,29.9,0,0,-4.2,0.5,52.4,11/12/2016 18:28
+fc:52:8d:b7:77:93,"S? 90, Quán Thánh, Quán Thánh, Ba ?ình, Hà N?i (Quán n??c ??u ngõ) - IS1",CN4,Online,uBR10K-NCT01-NODE_HANGBUN-NGUYENTRUONGTO,36.9,22.1,0,0,2.4,1,45,11/12/2016 18:28
+08:95:2a:1e:30:22,"S? 7, Ngõ 81/2/19, L?c Long Quân, Ngh?a ?ô, C?u Gi?y, Hà N?i - IS2",CN4,Online,uBR10k-TC-NODE_2/81LACLONGQUAN,36.1,36.1,0,0,8.6,0,42.9,11/12/2016 18:28
+80:29:94:bb:cd:c9,"Phòng 1702, Nguy?n Tuân, Thanh Xuân, Hà N?i (P1702 - CC 198), Giganet-Home4",CN2,Online,uBR-10-NCT03-NODE_LEVANTHIEM_HACINCO,35.9,29.8,0.01,0,9.2,-1,47,11/12/2016 18:28
+fc:52:8d:b7:33:6f,"N?9 Khu ?ô th? Pháp Vân, Hoàng Li?t, Hoàng Mai, Hà N?i (P214 N?9 Khu ?ô th? Pháp Vân)Giganet,Home3",CN9,Online,uBR-10K-DT-NODE_CEC.NO18PHAPVAN,36.9,26.8,0,0,-6.2,0,44,11/12/2016 18:28
+08:95:2a:1e:2a:be,"An D??ng, Yên Ph?, Tây H?, Hà N?i (S? 25 - ???ng 3 - TT F361) - IS3",CN4,Online,uBR10K-NCT01-NODE_32/57ANDUONG,37.6,36,0,0,-1.2,2,49.8,11/12/2016 18:28
+fc:52:8d:b7:61:05,"S? 3, Chu V?n An, Y?t Kiêu, Hà ?ông, Hà N?i (Th?t chó cây xoài) - IS4",CN6,Other,uBR10K-HD-NODE_Nga3TruongCongDinh-TaySon,36.7,35.9,5.66,0,-4,2,56,11/12/2016 18:28
+b0:c2:87:65:30:45,"S? 48, Nam ??ng, Nam ??ng, ??ng ?a, Hà N?i - IS3",CN2,Online,uBR-10K-NCT02-NODE_NGA3XADAN-DANGVANNGU,37.7,34.1,0,0,0,1.5,53,11/12/2016 18:28
+70:5a:9e:26:fc:20,"TT Thanh Xuân B?c, Thanh Xuân B?c, Thanh Xuân, Hà N?i (P405 - I9), Giganet-Home3",CN2,Other,uBR-10-NCT03-NODE_Y9THANHXUAN,36.3,31.4,0,0,4.2,0.5,45,11/12/2016 18:28
+cc:03:fa:a4:f9:1e,"Hoàng Hoa Thám, Ba ?ình, Hà N?i (S? 50 - Ngách 515/13) - IS1",CN4,Online,uBR10k-TC-NODE_515HOANGHOATHAM,34.7,36.1,0,0,1.7,4.5,52,11/12/2016 18:29
+88:f7:c7:f9:47:37,"S? 10 ngõ 994 ???ng Láng, Ph??ng Láng Th??ng Qu?n ??ng ?a Thành ph? Hà N?i",CN1,Online,uBR10k-TC-NODE_255CAUGIAY,35.3,32.5,0.12,0,-4.9,6,61.1,11/12/2016 18:29
+80:29:94:bb:ad:19,"C? Nhu?, C? Nhu?, T? Liêm, Hà N?i (Xóm 12 (G?n c?ng chùa S?ng Quang, ngõ 84) - IS4",CN4,Online,uBR10k-TC-NODE_43CONHUE,35.4,31.3,0.02,0,1.2,10,47,11/12/2016 18:28
+08:95:2a:c2:14:90,"Tr?n Cung, C? Nhu?, T? Liêm, Hà N?i (Xóm 1B - ( s? m?i 24 - ngách 195/59/14 )) - IS4",CN4,Online,uBR10k-TC-NODE_121TRANCUNG,38.1,31.6,0,0,-4.2,0,48,11/12/2016 18:28
+fc:52:8d:b7:22:b5,"Xuân Th?y, D?ch V?ng H?u, C?u Gi?y, Hà N?i (S? 28 - ngõ 68 - Xuân Thu? (Tt Báo Chí)) - IS3",CN1,Online,uBR10k-TC-NODE_111NGUYENPHONGSAC,36.5,24.5,0,0,5.3,-1,45,11/12/2016 18:29
+08:95:2a:c2:14:12,"Phan V?n Tr??ng, D?ch V?ng H?u, C?u Gi?y, Hà N?i (S? 136 - Ngõ 12) - IS3",CN1,Online,uBR10k-TC-NODE_PHANVANTRUONG,35.5,36.1,0.01,0,-0.3,1.5,54,11/12/2016 18:29
+58:23:8c:89:d7:97,"Võng Th?, Tây H?, Hà N?i (S? 62 - Ngõ 29) - IS1",CN4,Online,uBR10k-TC-NODE_43VONGTHI&8VONGTHI,36.1,27.8,0.02,0,2.3,-1,35.9,11/12/2016 18:29
+c4:27:95:f8:ab:97,"Võng Th?, Tây H?, Hà N?i (S? 23 - Ngõ 66/10 ??i t? tên Nguy?n Quý L??ng sang) - IS2",CN4,Online,uBR10k-TC-NODE_378/28THUYKHUE,36,21.9,0.02,0,-2,-1,58.1,11/12/2016 18:29
+fc:52:8d:b7:71:c7,"Trung Hòa, Trung Hoà, C?u Gi?y, Hà N?i (P2104_ Tòa 24T2_ Hoàng ??o Thúy) - IS4",CN1,Other,uBR-10K-NCT02-NODE_THPPT.LYTHAITO,36.8,35.1,0,0,8,7,48.8,11/12/2016 18:28

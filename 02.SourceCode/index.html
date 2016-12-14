@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="https://getbootstrap.com/favicon.ico">
+
+    <title>VTV Cap</title>
+
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <!--<link href="https://cdn.datatables.net/1.10.13/css/jquery.dataTables.min.css" rel="stylesheet">-->
+    <link href="https://cdn.datatables.net/1.10.13/css/dataTables.bootstrap.min.css" rel="stylesheet">
+    <link href="https://editor.datatables.net/extensions/Editor/css/editor.dataTables.min.css" rel="stylesheet">
+
+
+    <!--<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.5/css/bootstrap.css" rel="stylesheet">-->
+    <!--<link href="https://cdn.datatables.net/1.10.13/css/dataTables.bootstrap4.min.css" rel="stylesheet">-->
+
+    <!--<link href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.6/semantic.min.css" rel="stylesheet">-->
+    <!--<link href="https://cdn.datatables.net/1.10.13/css/dataTables.semanticui.min.css" rel="stylesheet">-->
+
+
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <!--<link href="css/ie10-viewport-bug-workaround.css" rel="stylesheet">-->
+
+    <!-- Custom styles for this template -->
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+
+<div class="container">
+    <header>
+        <section id="banner">
+            <img src="https://placeholdit.imgix.net/~text?txtsize=19&txt=1140%C3%97200&w=1140&h=200" alt="banner vtv"/>
+        </section>
+        <section id="menu">
+            <nav class="navbar navbar-default">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
+                                aria-expanded="false" aria-controls="navbar">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="#">VTV.net</a>
+                    </div>
+                    <div id="navbar" class="navbar-collapse collapse">
+                        <ul class="nav navbar-nav">
+                            <li class="active"><a href="#">Cmts</a></li>
+                            <li><a href="upstream-channel.html">Upstream Channel</a></li>
+                            <li><a href="#">Cable Modem</a></li>
+                            <li><a href="#">Customer Mapping</a></li>
+                            <li><a href="#">Upstream Metadata</a></li>
+                            <li><a href="#">Mechant</a></li>
+                            <li><a href="#">Alarm Config</a></li>
+                            <!--<li class="dropdown">-->
+                            <!--<a href="https://getbootstrap.com/examples/navbar/#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>-->
+                            <!--<ul class="dropdown-menu">-->
+                            <!--<li><a href="https://getbootstrap.com/examples/navbar/#">Action</a></li>-->
+                            <!--<li><a href="https://getbootstrap.com/examples/navbar/#">Another action</a></li>-->
+                            <!--<li><a href="https://getbootstrap.com/examples/navbar/#">Something else here</a></li>-->
+                            <!--<li role="separator" class="divider"></li>-->
+                            <!--<li class="dropdown-header">Nav header</li>-->
+                            <!--<li><a href="https://getbootstrap.com/examples/navbar/#">Separated link</a></li>-->
+                            <!--<li><a href="https://getbootstrap.com/examples/navbar/#">One more separated link</a></li>-->
+                            <!--</ul>-->
+                            <!--</li>-->
+                        </ul>
+                        <!--<ul class="nav navbar-nav navbar-right">-->
+                        <!--<li class="active"><a href="https://getbootstrap.com/examples/navbar/">Default <span class="sr-only">(current)</span></a></li>-->
+                        <!--<li><a href="https://getbootstrap.com/examples/navbar-static-top/">Static top</a></li>-->
+                        <!--<li><a href="https://getbootstrap.com/examples/navbar-fixed-top/">Fixed top</a></li>-->
+                        <!--</ul>-->
+                    </div><!--/.nav-collapse -->
+                </div><!--/.container-fluid -->
+            </nav>
+        </section>
+    </header>
+
+    <div id="mainContent" class="main-content">
+        <p id="controls">
+            <button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#add-cmts">
+                <i class="fa fa-plus" aria-hidden="true"></i> Add CMTS
+            </button>
+        </p>
+
+        <div class="tableContent jumbotron">
+            <table id="cmtsTable" class="table table-striped table-bordered" cellspacing="0" width="100%">
+                <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Title</th>
+                    <th>Host</th>
+                    <th>Community</th>
+                    <th>Description</th>
+                    <th>Enabled</th>
+                </tr>
+                </thead>
+                <tfoot>
+                <tr>
+                    <th>ID</th>
+                    <th>Title</th>
+                    <th>Host</th>
+                    <th>Community</th>
+                    <th>Description</th>
+                    <th>Enabled</th>
+                </tr>
+                </tfoot>
+                <tbody>
+
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Modal -->
+        <div id="add-cmts" class="modal fade" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h4 class="modal-title">Add New CMTS</h4>
+                    </div>
+                    <div class="modal-body">
+                        <form class="form-horizontal">
+                            <div class="form-group">
+                                <label class="control-label col-sm-2" for="cmts-title">Title*</label>
+                                <div class="col-sm-10">
+                                    <input type="text" class="form-control" id="cmts-title" placeholder="Enter title" required>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="control-label col-sm-2" for="cmts-host">Host*</label>
+                                <div class="col-sm-10">
+                                    <input type="text" class="form-control" id="cmts-host" placeholder="Enter host" required>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="control-label col-sm-2" for="cmts-community">Community*</label>
+                                <div class="col-sm-10">
+                                    <input type="text" class="form-control" id="cmts-community" placeholder="Enter community" required>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="control-label col-sm-2" for="cmts-description">Description</label>
+                                <div class="col-sm-10">
+                                    <input type="text" class="form-control" id="cmts-description" placeholder="Enter description">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="col-sm-offset-2 col-sm-10">
+                                    <div class="checkbox">
+                                        <label><input type="checkbox"> Enable</label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="col-sm-offset-2 col-sm-10">
+                                    <button type="submit" class="btn btn-default"><i class="fa fa-floppy-o" aria-hidden="true"></i> Save</button>
+                                    <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times" aria-hidden="true"></i> Cancel</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                    <!--<div class="modal-footer">-->
+                        <!--<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>-->
+                    <!--</div>-->
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <footer></footer>
+</div>
+
+<script src="js/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/vendor/jquery.min.js"><\/script>')</script>
+<script src="js/bootstrap.min.js"></script>
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<!--<script src="js/ie10-viewport-bug-workaround.js"></script>-->
+<script src="js/moment.js"></script>
+<script src="https://cdn.datatables.net/1.10.13/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.10.13/js/dataTables.bootstrap.min.js"></script>
+<!--<script src="https://editor.datatables.net/extensions/Editor/js/dataTables.editor.min.js"></script>-->
+<script src="js/app.js"></script>
+
+
+</body>
+</html>
